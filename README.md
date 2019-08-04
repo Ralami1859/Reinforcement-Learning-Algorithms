@@ -1,3 +1,3 @@
 # Reinforcement-Learning-Algorithms
 
-Implementation of SARSA and Q-Learning
+Implementation of SARSA, Q-Learning and DQN for reinforcement learning problems.
